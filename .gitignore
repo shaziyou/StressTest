@@ -1,0 +1,5 @@
+/.settings/
+/target/
+/.classpath
+/wso2carbon.jks
+/.project
